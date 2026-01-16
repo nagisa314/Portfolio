@@ -114,7 +114,7 @@ export default function Home() {
     {/* Center peek cat */}
     <img
       className="footerPeekCat"
-      src="/image/cat.png"
+      src="image/cat.png"
       alt=""
       aria-hidden="true"
       draggable="false"

@@ -400,14 +400,14 @@ const closeProject = () => {
         {/* B — Image tile 1 */}
         <div className="bento2-tile b imgTile">
           <div className="imgMock img1" aria-hidden="true" />
-          <img src="/image/download (2).jpg" alt="Project preview" className="img1" />
+          <img src="image/download (2).jpg" alt="Project preview" className="img1" />
         </div>
 
         {/* C — Image tile 2 */}
         <div className="bento2-tile c imgTile">
           <div className="imgMock img2" aria-hidden="true" />
           <img
-            src="/image/f4f2589d-cb9d-4a7c-8382-0bfd4db6b31d.jpg"
+            src="image/f4f2589d-cb9d-4a7c-8382-0bfd4db6b31d.jpg"
             alt="Project preview"
             className="img2"
           />
@@ -454,7 +454,7 @@ const closeProject = () => {
         <div className="bento2-tile g imgTile">
           <div className="imgMock img4" aria-hidden="true" />
           <img
-            src="/image/970affc5-3a54-4c45-b8d8-3feda79b94e0.jpg"
+            src="image/970affc5-3a54-4c45-b8d8-3feda79b94e0.jpg"
             alt="Project preview"
             className="img4"
           />
@@ -575,16 +575,16 @@ const closeProject = () => {
           <div className="stackTitle">Stack I use</div>
           <div className="stackIcons">
             <a className="stackIcon"  aria-label="React">
-              <img src="/image/react.png" alt="" />
+              <img src="image/react.png" alt="" />
             </a>
             <a className="stackIcon"  aria-label="Laravel">
-              <img src="/image/Laravel.png" alt="" />
+              <img src="image/Laravel.png" alt="" />
             </a>
             <a className="stackIcon"  aria-label="Css">
-              <img src="/image/css-3.svg" alt="" />
+              <img src="image/css-3.svg" alt="" />
             </a>
             <a className="stackIcon"  aria-label="js">
-              <img src="/image/Figma-logo.svg-removebg-preview.png" alt="" />
+              <img src="image/Figma-logo.svg-removebg-preview.png" alt="" />
             </a>
           </div>
         </div>
@@ -620,7 +620,7 @@ const closeProject = () => {
     <span className="cvSmall">Updated 2026</span>
   </div>
 
-  <a className="btn2 cvBtn" href="/about/resume.pdf" download>
+  <a className="btn2 cvBtn" href="about/resume.pdf" download>
     Download CV <span aria-hidden="true">↗</span>
   </a>
 </div>
